@@ -1,0 +1,2 @@
+# wp.def
+test wp
